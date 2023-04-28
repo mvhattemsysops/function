@@ -1,4 +1,4 @@
-#Start
+#Start 1
 #region Colors
 $name=get-computerinfo -property csname
 $model=get-computerinfo -property csmodel
